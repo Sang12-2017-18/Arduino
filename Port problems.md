@@ -8,3 +8,5 @@ If I type the command: sudo chmod 666 /dev/ttyACM0 on terminal
 and then try uploading,it gives the message "Done Uploading".
 Now the LED Blinks at a slower rate.(Right output obtained).
 My first Arduino experiment works!
+Problem 1:
+I have to now find a way to permanently allot R/W privileges to the arduino usb cable.
