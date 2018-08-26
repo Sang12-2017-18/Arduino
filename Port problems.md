@@ -16,3 +16,6 @@ My first Arduino experiment works!
 
 Problem 1:
 I have to now find a way to permanently allot R/W privileges to the arduino usb cable.
+
+Solution:
+I added myself to dialout group, and it works! 
